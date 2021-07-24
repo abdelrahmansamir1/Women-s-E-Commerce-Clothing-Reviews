@@ -3,7 +3,7 @@ This is a Women’s Clothing E-Commerce dataset revolving around the reviews wri
 
 **Features**
 
-1) `Clothing ID`: Integer Categorical variable that refers to the specific piece being reviewed.
+1) `Clothing ID`: Integer Categorical variable that refers to the specific piece beig reviewed.
 2) `Age`: Positive Integer variable of the reviewers age.
 3) `Title`: String variable for the title of the review.
 4) `Review` Text: String variable for the review body.
